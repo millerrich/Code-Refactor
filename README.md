@@ -23,3 +23,4 @@ For more info on website accessibility you can read about the [Four Principles o
 * fixed Search Engine Optimization placeholder link by adding id
 * changed footer heading from h2 to h4 to ensure headers were in order
 * ensured all elements follow a logical structure and added comments clarifying sections of code
+* condensed CSS where possible
