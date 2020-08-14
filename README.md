@@ -19,5 +19,7 @@ For more info on website accessibility you can read about the [Four Principles o
 ## Improvements Made
 * Gave website concise title
 * Added descriptive alt tags to all images
-* Replaced certain div elements with semantic elements such as section and aside
+* Replaced certain div elements with semantic elements such as header section, aside and footer for more clarity
 * fixed Search Engine Optimization placeholder link by adding id
+* changed footer heading from h2 to h4 to ensure headers were in order
+* ensured all elements follow a logical structure and added comments clarifying sections of code
